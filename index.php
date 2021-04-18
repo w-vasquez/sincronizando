@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<?php 
-
-    echo "solucionando conflictos";
-
-?>
-=======
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,4 +10,4 @@
     
 </body>
 </html>
->>>>>>> actualizando
+
