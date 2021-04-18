@@ -1,4 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-    manejo mejor del código
+<html>
+estoy cambiando el código y manejo mejor del código web vs local
 </html>
+
